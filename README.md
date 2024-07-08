@@ -6,13 +6,14 @@ Mata Kuliah	Pengolahan Citra
 This application uses Haar Cascades to detect faces and eyes in real-time from a webcam or from uploaded photos.
 
 Screenshot
-Screenshot 2024-07-05 183520
+
 
 Prerequisites
 Before you begin, ensure you have met the following requirements:
 
 Python 3.6 or higher
 pip package manager
+
 Installation
 Clone the repository:
 
