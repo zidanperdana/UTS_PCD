@@ -1,8 +1,10 @@
-Face Eye Detection Camera & Uploaded Photos
+# Face Eye Detection Camera & Uploaded Photos
+
 Nama	Maulana Zidan Perdana	
 NIM	312210463	
 Kelas	TI.22.A.4	
 Mata Kuliah	Pengolahan Citra	
+
 This application uses Haar Cascades to detect faces and eyes in real-time from a webcam or from uploaded photos.
 
 Screenshot
